@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Defundooz</string>
+    <string name="splash_img">Splash image</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_img">Title image</string>
+    <string name="play_img">Play image</string>
+    <string name="score_img">Score image</string>
+    <string name="sound_img">Sound image</string>
+    <string name="credit_img">credit image</string>
+    <string name="title_activity_story">StoryActivity</string>
+    <string name="story">Story image</string>
+    <string name="credits_title">Credits</string>
+    <string name="me">Dev By:\n Mukesh Kumar Maurya</string>
+    <string name="sohail">Art By:\n Sohail Ahmed</string>
+    <string name="ok">OK</string>
+    <string name="title_activity_play">PlayActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
